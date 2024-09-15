@@ -1,5 +1,7 @@
-import math
-
-print(math.sqrt(5))
-# token : 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
-print("Hello this is small repo for handling Playwright test automation in python.!")
+"""
+Difference between Selenium and PlayWright:
+Browser : Firefox, Chrome, edge, Safari
+Language: Rupy, PHP , Perl(Selenium)
+WebElements: alert, Iframe,
+Speed : Playwright is quite speed due to websocket connected with Browser
+"""
