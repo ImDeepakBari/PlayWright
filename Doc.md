@@ -6,6 +6,6 @@
 </ul><br>
 
 <ul><h4>playwright install</h4>
-<li>This will install browser websocket.</li>
+<li>This will install browser dependencies for firefox, choromium browser (chroem, edge) and webkit for safari and firefox.</li>
 
 </ul>
